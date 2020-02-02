@@ -1,2 +1,5 @@
 **/node_modules/**
 **/.exercism/**
+
+# Just so I don't have to faff with security issues
+**/**/yarn.lock
